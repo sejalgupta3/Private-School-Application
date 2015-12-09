@@ -1,0 +1,1 @@
+a:5:{s:9:"cafeteria";s:2:"64";s:3:"lab";s:2:"63";s:5:"games";s:2:"21";s:7:"library";i:19;s:9:"classRoom";s:1:"8";}

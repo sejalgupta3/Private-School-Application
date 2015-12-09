@@ -1,0 +1,5 @@
+Principal,Aaron Hank,ah@gmail.com,(123)-233-1233
+Director,Hague Frank, hf@gmail.com,(123)-233-1233
+Librarian,Heller Joseph, hj@gmail.com,(123)-233-1233
+Faculty,Kennedy John F, kjf@gmail.com,(123)-233-1233
+Assistant Faculty,Khan Shahrukh, ks@gmail.com,(123)-233-1233
